@@ -1,0 +1,7 @@
+# Your downloaded runs, tokens and upload progress: never commit these
+nike-export/
+*.gpx
+strava_auth.json
+.env
+node_modules/
+.DS_Store
